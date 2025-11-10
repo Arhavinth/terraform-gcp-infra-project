@@ -1,3 +1,4 @@
+wq!
 .terraform/
 *.tfstate
 *.tfstate.backup
