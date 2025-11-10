@@ -9,3 +9,6 @@ wq!
 *.tfstate.backup
 *.tfvars
 .terraform.lock.hcl
+.terraform/
+.terraform.lock.hcl
+*.tfstate*
