@@ -1,0 +1,5 @@
+variable "network" {
+  type = string
+}
+
+
