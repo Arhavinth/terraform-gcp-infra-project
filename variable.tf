@@ -38,7 +38,7 @@ variable "db_password" {
 
 variable "storage_bucket_name" {
   type    = string
-  default = "final-bucket-889911"
+  default = "YOUR-BUCKET-NAME"
 }
 
 
