@@ -11,7 +11,7 @@ version = ">= 5.0"
 }
 
 backend "gcs" {
-bucket = "final-bukcet-889911"
+bucket = "YOUR-BUCKET-NAME"
 prefix = "terraform/state"
 }
 }
